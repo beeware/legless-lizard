@@ -24,7 +24,7 @@ setup(
     author='Russell Keith-Magee',
     author_email='russell@keith-magee.com',
     # url='http://pybee.org/lizard',
-    packages='lizard',
+    # packages=['lizard'],
     license='New BSD',
     classifiers=[
         'Development Status :: 4 - Beta',

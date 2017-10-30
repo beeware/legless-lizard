@@ -5,9 +5,16 @@
 Legless Lizard
 ==============
 
-Legless Lizard is a setuptools mock of Python.net.
+Legless Lizard is a setuptools mock of `Python for .NET
+<https://github.com/pythonnet/pythonnet>`__.
 
-Python.net is a great library for interfacing with Python on .Net platforms, but it can't be installed elsewhere. This can be a problem if you want to run non-platform specific tests of a package that has `pythonnet` listed in dependencies.
+Python for .NET is a great library for interfacing Python with .NET, but it
+can't be installed (easily) on non-Windows platforms. This can be a problem if
+you want to run non-platform specific tests of a package that has `pythonnet`
+listed in dependencies.
+
+Legless Lizard registers itself as `pythonnet`, fooling PyPI into thinking
+Python for .NET is already installed.
 
 What does the name mean?
 ------------------------
