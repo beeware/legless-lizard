@@ -22,6 +22,13 @@ What does the name mean?
 A `legless lizard <https://en.wikipedia.org/wiki/Legless_lizard>`__ may *look*
 like a snake, but doesn't behave like a snake at all.
 
+Usage
+-----
+
+Legless Lizard can't be installed from PyPI (because it masquerades as a different package). To install it, run::
+
+    > pip install git+https://github.com/pybee/legless-lizard.git
+
 Community
 ---------
 
