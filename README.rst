@@ -1,6 +1,6 @@
-.. image:: http://pybee.org/static/images/defaultlogo.png
+.. image:: https://beeware.org/static/images/defaultlogo.png
     :width: 72px
-    :target: https://pybee.org/
+    :target: https://beeware.org/
 
 Legless Lizard
 ==============
